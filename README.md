@@ -17,7 +17,9 @@ During my bechelor, I learn about some technical skills and currently I am learn
 ![](https://github-profile-trophy.vercel.app/?username=Deeptisahu12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deeptisahu12&icon=0&color=0)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=deeptisahu12&label=Profile%20Views&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=deeptisahu12&label=Profile%20Views&icon=7&pretty=false" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
