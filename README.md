@@ -18,7 +18,7 @@ During my bechelor, I have learnt some technical skills like HTML,CSS,JavaScript
 ---
 [![](https://visitcount.itsvg.in/api?id=deeptisahu12&label=Profile%20Views&color=1&icon=7&pretty=false)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=deeptisahu12&label=Profile%20Views&icon=7&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=deeptisahu12&label=Profile%20Views&icon=7&pretty=True" />
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
