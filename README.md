@@ -1,7 +1,6 @@
 ### Hi, I am Deepti Sahu
 I have completed my bechelor in B.Tech(Computer Science & Engineering) from BABU BANARSI DAS UNIVERSITY LUCKNOW in 2024.
 During my bechelor, I have learnt some technical skills like HTML,CSS,JavaScript,Java,DSA and currently I am learning DATA ANALYTICS.
-[![Deepti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deeptisahu12)](https://github.com/Deeptisahu12/github-readme-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/deepti4993?) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/deepti34) 
